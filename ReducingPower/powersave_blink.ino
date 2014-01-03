@@ -4,9 +4,8 @@
 /*
   Blink
   Turns on an LED on for one second, then off for one second, repeatedly.
- 
-  This example code is in the public domain.
   Narcoleptic Library is found here: https://code.google.com/p/narcoleptic/downloads/list
+  This example code is in the public domain.
  */
  
 // Pin 13 has an LED connected on most Arduino boards.
