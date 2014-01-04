@@ -1,10 +1,9 @@
-
 // Code for sensing a switch status and writing the value to the serial port.
 
 int switchPin = 2;                       // Switch connected to pin 2
 
 void setup() {
-  pinMode(switchPin, INPUT_PULLUP);      // Set pin 2 as an input
+  pinMode(switchPin, INPUT);      // Set pin 2 as an input
   Serial.begin(9600);                    // Start serial communication at 9600 bps
 }
 
