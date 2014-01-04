@@ -14,7 +14,7 @@ void setup()
 void loop()
 {
   delay (10000);
-  if (interrupted == true){           //see if interrupt was pressed
+  if (interrupted == true){           //see if interrupt was executed
     reading=reading + 1;
     Serial.print(reading);
     interrupted = false;
