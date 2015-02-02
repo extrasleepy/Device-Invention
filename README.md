@@ -1,4 +1,4 @@
 Device-Invention
 ================
 
-Sample Code for Spring LWHS Device Invention Class
+Sample Code for Spring 2014 LWHS Device Invention Class
